@@ -13,8 +13,7 @@ public class DecimalComparator {
         if(num1 == num2) {
             System.out.println("True");
             return true;
-        }
-
+        } else if ()
         System.out.println("False");
         return false;
     }
